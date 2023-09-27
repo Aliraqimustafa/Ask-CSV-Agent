@@ -1,6 +1,6 @@
 # Ask-CSV-Agent
 
-!(Image)[https://raw.githubusercontent.com/Aliraqimustafa/Ask-CSV-Agent/main/sql_usecase-d432701261f05ab69b38576093718cf3.png]
+![Ask-SQL-Agent](https://raw.githubusercontent.com/Aliraqimustafa/Ask-CSV-Agent/main/sql_usecase-d432701261f05ab69b38576093718cf3.png)
 
 Welcome to this repository! This Ask-CSV-Agent repository contains a project that leverages the capabilities of chatGPT to answer questions based on a database of Nike products descriptions.
 
