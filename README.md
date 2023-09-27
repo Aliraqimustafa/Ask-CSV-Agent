@@ -24,6 +24,8 @@ I retrieved the data used in this project from [Kaggle](https://www.kaggle.com/d
 To interact with the chat agent and query the database, you can refer to the `Ask-DataBase.ipynb` file included in this repository. It provides three different methods for accessing and exploring the database.
 
 ## Contact
-If you have any questions or would like to get in touch with me, you can reach me on Facebook or Telegram.
+If you have any questions or would like to get in touch with me, you can reach me on 
+- **Facebook:** [Mustafa Mohammad](https://www.facebook.com/profile.php?id=100049592914479)
+- **Telegram:** [Mustafa Mohammad](https://t.me/ha12qw)
 
 Thank you for checking out this project!
